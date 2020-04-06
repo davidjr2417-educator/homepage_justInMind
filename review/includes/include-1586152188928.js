@@ -1,0 +1,3 @@
+document.write("<script type='text/javascript' charset='utf-8' src='file:////Applications/Justinmind.app/Contents/Resources/Java/resources/jim/javascript/jim-min.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/scenarios/function-jim-links1586152188928.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/lookup-1586152188928.js'></script>");
